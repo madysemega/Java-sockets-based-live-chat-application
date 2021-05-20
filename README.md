@@ -1,5 +1,4 @@
 # Java-sockets-based-live-chat-application
-## Introduction
 La surveillance informatique est un sujet d'actualité. Certains l’utilisent à des fins de 
 monitorage pour optimiser le réseau d’une société et d’autres à des fins de cybersécurité. Plusieurs 
 applications souhaitent intégrer à leur développement la protection des données des utilisateurs 
